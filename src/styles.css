@@ -400,7 +400,7 @@ h3 {
 }
 
 .team-member img {
-  aspect-ratio: 4 / 5;
+  aspect-ratio: 9 / 16;
   box-shadow: var(--shadow);
   height: auto;
   object-fit: cover;
